@@ -1,0 +1,1 @@
+webpackJsonp([5],{KB5W:function(e,t){},wDQo:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"home"},[t("router-view")],1)},staticRenderFns:[]};var r=n("VU/8")({name:"Home"},a,!1,function(e){n("KB5W")},"data-v-ab3a902c",null);t.default=r.exports}});
