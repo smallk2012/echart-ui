@@ -1,3 +1,4 @@
+# [项目地址https://smallk2012.github.io/echart-ui/#/echarts](https://smallk2012.github.io/echart-ui/#/echarts)
 # 对百度echart2次封装
 
 ```
